@@ -100,26 +100,10 @@ Install dependencies via:
 pip install torch matplotlib numpy
 ```
 
----
-
-## 🧾 Citation
-
-If you use this project in your own work or paper, please cite:
-
-```
-@misc{shakespearegpt2025,
-  author = {Your Name},
-  title = {ShakespeareGPT: A Minimal Transformer from Scratch},
-  year = 2025,
-  url = {https://github.com/yourusername/shakespearegpt}
-}
-```
-
----
 
 ## ✍️ Author
 
-**Your Name** – [@yourgithub](https://github.com/yourgithub)
+**Your Name** – [@arushsinghal](https://github.com/arushsinghal)
 
 ---
 
